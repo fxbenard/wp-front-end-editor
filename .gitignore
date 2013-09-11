@@ -8,3 +8,5 @@
 /aloha-plugins/
 
 /node_modules/
+us.stackdump
+.tx/config
